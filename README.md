@@ -59,10 +59,4 @@ The model is evaluated using:
 - Loss Function
 - Prediction Quality
 
-## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/next-word-predictor.git
-cd next-word-predictor
