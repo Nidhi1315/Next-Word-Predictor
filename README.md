@@ -1,15 +1,13 @@
-# Next-Word-Predictor
+## Next-Word-Predictor
 Deep learning-based Next Word Prediction system that learns language patterns from text data and predicts the most probable next word in a sequence using NLP and neural networks
 
-# Next Word Predictor using Deep Learning
-
-## Overview
+### Overview
 
 This project implements a Next Word Prediction system using Natural Language Processing (NLP) and Deep Learning. The model is trained on a text dataset to learn language patterns and predict the most likely next word based on a given sequence of words.
 
 The project demonstrates how neural networks can be used for language modeling, text generation, and predictive text applications.
 
-## Features
+### Features
 
 - Text preprocessing and cleaning
 - Tokenization and sequence generation
@@ -19,21 +17,18 @@ The project demonstrates how neural networks can be used for language modeling, 
 - Training and validation of the model
 - Real-time text prediction
 
-## Dataset
+### Dataset
 
 The model is trained on a text corpus containing sentences and phrases. The text data is processed to generate input-output word sequences for training the prediction model.
 
-## Technologies Used
+### Technologies Used
 
 - Python
 - TensorFlow / Keras
 - NumPy
-- Pandas
-- NLTK
-- Matplotlib
-- Scikit-learn
+- Time
 
-## Workflow
+### Workflow
 
 1. Load text dataset
 2. Clean and preprocess text
@@ -44,7 +39,7 @@ The model is trained on a text corpus containing sentences and phrases. The text
 7. Evaluate model performance
 8. Predict the next word for a given input sequence
 
-## Model Architecture
+### Model Architecture
 
 The model consists of:
 
@@ -55,7 +50,7 @@ The model consists of:
 
 The network learns contextual relationships between words and predicts the most probable next word.
 
-## Performance Metrics
+### Performance Metrics
 
 The model is evaluated using:
 
